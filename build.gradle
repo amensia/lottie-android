@@ -2,7 +2,7 @@ import org.ajoberstar.grgit.Grgit
 
 buildscript {
   ext.kotlinVersion = '1.2.31'
-  ext.supportLibVersion = '27.1.1'
+  ext.supportLibVersion = '27.0.0'
 
   repositories {
     jcenter()
